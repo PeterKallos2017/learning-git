@@ -1,1 +1,3 @@
+package main
+
 fund main() {}
